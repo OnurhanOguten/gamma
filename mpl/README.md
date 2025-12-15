@@ -1,1 +1,1 @@
-"Modern Programming Languages" 
+"Modern Programming Languages Lecture Projects" 
